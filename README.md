@@ -18,7 +18,7 @@ It provides a holistic overview of the e-commerce ecosystem by tracking the enti
 
 **Identified Business Problems, Insights, and Impact**
 
-**•	Top-Selling Product Categories: **Identify high-demand categories to guide marketing, promotions, and inventory planning.
+•	**Top-Selling Product Categories:** Identify high-demand categories to guide marketing, promotions, and inventory planning.
 •	Average Delivery Time by Category: Analyze delivery performance to address logistics inefficiencies.
 •	Top-Performing Sellers: Recognize high-volume sellers to improve vendor management and support programs.
 •	Seasonal Sales Trends: Examine monthly and seasonal sales peaks for better forecasting and resource planning.
