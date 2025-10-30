@@ -3,7 +3,7 @@ This is a Brazilian E-commerce public dataset of orders made at Olist Store. The
 
 The analysis aims to uncover insights into top-performing categories, seller performance, customer behavior, delivery efficiency, regional sales trends, and seasonal dependencies.
 
-****Contents****
+********Contents****
 **1. Introduction**
 
 The project leverages data analytics to enhance Olist’s operational efficiency, customer retention, and business growth, analyzing the full customer journey from purchase to review.
