@@ -14,40 +14,40 @@ It provides a holistic overview of the e-commerce ecosystem by tracking the enti
 
 **2. Data Exploration and Preparation**
 
-**Loading the Data:** Explanation of how the dataset is loaded into MySQL.
+•	**Loading the Data:** Explanation of how the dataset is loaded into MySQL.
 
-**Initial Exploration:** Methods used to examine the dataset's structure and identify unnecessary columns.
+•	**Initial Exploration:** Methods used to examine the dataset's structure and identify unnecessary columns.
 
-**Cleaning and Wrangling:** Steps taken to clean the data, including handling duplicates, null values, and data transformations.
+•	**Cleaning and Wrangling:** Steps taken to clean the data, including handling duplicates, null values, and data transformations.
 
 
 
 **3. Identified Business Problems, Insights, and Impact**
 
-**Top-Selling Product Categories:** Identify high-demand categories to guide marketing, promotions, and inventory planning.
+•	**Top-Selling Product Categories:** Identify high-demand categories to guide marketing, promotions, and inventory planning.
 
-**Average Delivery Time by Category**: Analyze delivery performance to address logistics inefficiencies.
+•	**Average Delivery Time by Category**: Analyze delivery performance to address logistics inefficiencies.
 
-**Top-Performing Sellers:** Recognize high-volume sellers to improve vendor management and support programs.
+•	**Top-Performing Sellers:** Recognize high-volume sellers to improve vendor management and support programs.
 
-**Seasonal Sales Trends:** Examine monthly and seasonal sales peaks for better forecasting and resource planning.
+•	**Seasonal Sales Trends:** Examine monthly and seasonal sales peaks for better forecasting and resource planning.
 
-**Geographic Distribution of Orders:** Map regional order patterns to optimize marketing and warehouse locations.
+•	**Geographic Distribution of Orders:** Map regional order patterns to optimize marketing and warehouse locations.
 
-**Customer Review Scores:** Evaluate ratings by category and seller to assess quality and satisfaction.
+•	**Customer Review Scores:** Evaluate ratings by category and seller to assess quality and satisfaction.
 
-**Repeat vs. One-Time Buyers:** Analyze customer retention trends to strengthen loyalty and engagement strategies.
+•	**Repeat vs. One-Time Buyers:** Analyze customer retention trends to strengthen loyalty and engagement strategies.
 
-**Cancellation and Refund Rates:** Monitor seller and category-level issues affecting reliability.
+•	**Cancellation and Refund Rates:** Monitor seller and category-level issues affecting reliability.
 
-**Impact of Delivery Delays on Reviews:** Assess how late deliveries influence customer satisfaction.
+•	**Impact of Delivery Delays on Reviews:** Assess how late deliveries influence customer satisfaction.
 
-**Freight Value and Purchase Behavior:** Study how shipping costs impact buying decisions and conversion rates.
+•	**Freight Value and Purchase Behavior:** Study how shipping costs impact buying decisions and conversion rates.
 
-**Average Order Value by Region:** Identify high-spending cities or segments for targeted marketing efforts.
+•	**Average Order Value by Region:** Identify high-spending cities or segments for targeted marketing efforts.
 
 
 
 **4. Conclusion**
 
-This analysis delivers key insights into Olist’s sales trends, customer behavior, and logistics performance. It highlights top-performing categories, sellers, and regions while identifying areas for operational improvement. By leveraging data-driven insights, Olist can enhance efficiency, boost customer satisfaction, and drive sustainable business growth.
+•	This analysis delivers key insights into Olist’s sales trends, customer behavior, and logistics performance. It highlights top-performing categories, sellers, and regions while identifying areas for operational improvement. By leveraging data-driven insights, Olist can enhance efficiency, boost customer satisfaction, and drive sustainable business growth.
