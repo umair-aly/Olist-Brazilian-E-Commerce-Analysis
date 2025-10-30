@@ -30,9 +30,9 @@ It provides a holistic overview of the e-commerce ecosystem by tracking the enti
 
 **Seasonal Sales Trends:** Examine monthly and seasonal sales peaks for better forecasting and resource planning.
 
-**	Geographic Distribution of Orders:** Map regional order patterns to optimize marketing and warehouse locations.
+**Geographic Distribution of Orders:** Map regional order patterns to optimize marketing and warehouse locations.
 
-**	Customer Review Scores:** Evaluate ratings by category and seller to assess quality and satisfaction.
+**Customer Review Scores:** Evaluate ratings by category and seller to assess quality and satisfaction.
 
 **Repeat vs. One-Time Buyers:** Analyze customer retention trends to strengthen loyalty and engagement strategies.
 
