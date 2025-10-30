@@ -10,26 +10,39 @@ The analysis aims to uncover insights into top-performing categories, seller per
 This section outlines the scope and objectives of the project, focusing on leveraging data analytics to enhance Olist’s operational efficiency, customer retention, and business growth.
 It provides a holistic overview of the e-commerce ecosystem by tracking the entire customer journey — from purchase and payment to delivery and review.
 
+
 **Data Exploration and Preparation**
 
 **Loading the Data:** Explanation of how the dataset is loaded into MySQL.
+
 **Initial Exploration:** Methods used to examine the dataset's structure and identify unnecessary columns.
+
 **Cleaning and Wrangling:** Steps taken to clean the data, including handling duplicates, null values, and data transformations.
+
 
 **Identified Business Problems, Insights, and Impact**
 
-•	**Top-Selling Product Categories:** Identify high-demand categories to guide marketing, promotions, and inventory planning.
+**Top-Selling Product Categories:** Identify high-demand categories to guide marketing, promotions, and inventory planning.
 
-•	**Average Delivery Time by Category**: Analyze delivery performance to address logistics inefficiencies.
-•	Top-Performing Sellers: Recognize high-volume sellers to improve vendor management and support programs.
-•	Seasonal Sales Trends: Examine monthly and seasonal sales peaks for better forecasting and resource planning.
-•	Geographic Distribution of Orders: Map regional order patterns to optimize marketing and warehouse locations.
-•	Customer Review Scores: Evaluate ratings by category and seller to assess quality and satisfaction.
-•	Repeat vs. One-Time Buyers: Analyze customer retention trends to strengthen loyalty and engagement strategies.
-•	Cancellation and Refund Rates: Monitor seller and category-level issues affecting reliability.
-•	Impact of Delivery Delays on Reviews: Assess how late deliveries influence customer satisfaction.
-•	Freight Value and Purchase Behavior: Study how shipping costs impact buying decisions and conversion rates.
-•	Average Order Value by Region: Identify high-spending cities or segments for targeted marketing efforts.
+**Average Delivery Time by Category**: Analyze delivery performance to address logistics inefficiencies.
+
+**Top-Performing Sellers:** Recognize high-volume sellers to improve vendor management and support programs.
+
+**Seasonal Sales Trends:** Examine monthly and seasonal sales peaks for better forecasting and resource planning.
+
+**	Geographic Distribution of Orders:** Map regional order patterns to optimize marketing and warehouse locations.
+
+**	Customer Review Scores:** Evaluate ratings by category and seller to assess quality and satisfaction.
+
+**Repeat vs. One-Time Buyers:** Analyze customer retention trends to strengthen loyalty and engagement strategies.
+
+**Cancellation and Refund Rates:** Monitor seller and category-level issues affecting reliability.
+
+**Impact of Delivery Delays on Reviews:** Assess how late deliveries influence customer satisfaction.
+
+**Freight Value and Purchase Behavior:** Study how shipping costs impact buying decisions and conversion rates.
+
+**Average Order Value by Region:** Identify high-spending cities or segments for targeted marketing efforts.
 
 
 **Conclusion**
