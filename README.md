@@ -7,4 +7,29 @@ The analysis aims to uncover insights into top-performing categories, seller per
 
 **1. Introduction**
 
-The project leverages data analytics to enhance Olist’s operational efficiency, customer retention, and business growth, analyzing the full customer journey from purchase to review.
+This section outlines the scope and objectives of the project, focusing on leveraging data analytics to enhance Olist’s operational efficiency, customer retention, and business growth.
+It provides a holistic overview of the e-commerce ecosystem by tracking the entire customer journey — from purchase and payment to delivery and review.
+
+**Data Exploration and Preparation**
+
+**Loading the Data:** Explanation of how the dataset is loaded into MySQL.
+**Initial Exploration:** Methods used to examine the dataset's structure and identify unnecessary columns.
+**Cleaning and Wrangling:** Steps taken to clean the data, including handling duplicates, null values, and data transformations.
+
+**Identified Business Problems, Insights, and Impact**
+
+**Top-Selling Product Categories:** Identification of high-demand categories to guide marketing, promotions, and inventory planning.
+**Average Delivery Time by Category:** Analysis of delivery performance to address logistics inefficiencies.
+**Top-Performing Sellers:** Recognition of high-volume sellers to improve vendor management and support programs.
+**Seasonal Sales Trends:** Examination of monthly and seasonal sales peaks for better forecasting and resource planning.
+**Geographic Distribution of Orders:** Mapping of regional order patterns to optimize marketing and warehouse locations.
+**Customer Review Scores:** Evaluation of ratings by category and seller to assess quality and satisfaction.
+**Repeat vs. One-Time Buyers:** Analysis of customer retention trends to strengthen loyalty and engagement strategies.
+**Cancellation and Refund Rates:** Monitoring of seller and category-level issues affecting reliability.
+**Impact of Delivery Delays on Reviews:** Assessment of how late deliveries influence customer satisfaction.
+**Freight Value and Purchase Behavior:** Study of the impact of shipping costs on buying decisions and conversion rates.
+**Average Order Value by Region:** Identification of high-spending cities or segments for targeted marketing efforts.
+
+**Conclusion**
+
+This analysis delivers key insights into Olist’s sales trends, customer behavior, and logistics performance. It highlights top-performing categories, sellers, and regions while identifying areas for operational improvement. By leveraging data-driven insights, Olist can enhance efficiency, boost customer satisfaction, and drive sustainable business growth.
