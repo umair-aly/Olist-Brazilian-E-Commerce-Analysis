@@ -11,7 +11,8 @@ This section outlines the scope and objectives of the project, focusing on lever
 It provides a holistic overview of the e-commerce ecosystem by tracking the entire customer journey — from purchase and payment to delivery and review.
 
 
-**Data Exploration and Preparation**
+
+**2. Data Exploration and Preparation**
 
 **Loading the Data:** Explanation of how the dataset is loaded into MySQL.
 
@@ -20,7 +21,8 @@ It provides a holistic overview of the e-commerce ecosystem by tracking the enti
 **Cleaning and Wrangling:** Steps taken to clean the data, including handling duplicates, null values, and data transformations.
 
 
-**Identified Business Problems, Insights, and Impact**
+
+**3. Identified Business Problems, Insights, and Impact**
 
 **Top-Selling Product Categories:** Identify high-demand categories to guide marketing, promotions, and inventory planning.
 
@@ -45,6 +47,7 @@ It provides a holistic overview of the e-commerce ecosystem by tracking the enti
 **Average Order Value by Region:** Identify high-spending cities or segments for targeted marketing efforts.
 
 
-**Conclusion**
+
+**4. Conclusion**
 
 This analysis delivers key insights into Olist’s sales trends, customer behavior, and logistics performance. It highlights top-performing categories, sellers, and regions while identifying areas for operational improvement. By leveraging data-driven insights, Olist can enhance efficiency, boost customer satisfaction, and drive sustainable business growth.
